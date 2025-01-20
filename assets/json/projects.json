@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Recipe Finder with Gemini AI",
+        "description": "Using Flutter and integrate the Gemini AI model and APIs to provide users with a seamless and interactive experience for discovering recipes.",
+        "tech": [
+            "Flutter",
+            "Cubit",
+            "Clean Architecture",
+            "Gemini AI Integration",
+            "Localization",
+            "Pexels API",
+            "Get_it (Service Locator)",
+            "Lottie Animations",
+            "Dio",
+            "Figma"
+        ],
+        "image": "assets/images/cover-recipe-finder.png",
+        "url": "https://github.com/Abdelrahman-Rashad/recipe-finder-gemini-AI-flutter"
+    },
+    {
+        "name": "Payment-Services-Flutter",
+        "description": "This project helped me to understand Payment integration by Instructor: Tharwat Samy from his course Flutter Payment Integration [2024].",
+        "tech": [
+            "Flutter",
+            "Cubit",
+            "Clean Architecture",
+            "Stripe Payment",
+            "PayPal Payment",
+            "SOLD Principle",
+            "Clean Code",
+            "Dio",
+            "Figma"
+        ],
+        "image": "assets/images/cover-payment-project.png",
+        "url": "https://github.com/Abdelrahman-Rashad/Payment_Services_Flutter"
+    },
+    {
+        "name": "Monglish E-learning App Flutter",
+        "description": "Developed an E-learning app with features like user authentication, error handling, animations, user profile, and settings.",
+        "tech": [
+            "Flutter",
+            "Cubit",
+            "Clean Architecture",
+            "SOLD Principle",
+            "Clean Code",
+            "Table Calendar",
+            "Animation",
+            "Percent Indicator",
+            "Dio",
+            "Figma"
+        ],
+        "image": "assets/images/cover-monglish.png",
+        "url": "https://github.com/Abdelrahman-Rashad/Monglish_E-learning-app_Flutter"
+    },
+    {
+        "name": "To-Do-Flutter",
+        "description": "This is a productivity application designed to help users organize and manage their daily tasks efficiently. This app allows users to create, edit, and remove tasks effortlessly while offering tools to track progress. Users can categorize tasks. The app boasts a clean and modern user interface. Built using Flutter and GetX for state management, it follows the MVC architecture for maintainable and scalable code. Data is stored securely using Get Storage and Shared Preferences, ensuring offline functionality. enhanced by Figma-based designs.",
+        "tech": [
+            "Flutter",
+            "GetX",
+            "MVC",
+            "Get Storage",
+            "Shared Preference",
+            "Responsive UI",
+            "Figma"
+        ],
+        "image": "assets/images/to-do.png",
+        "url": "https://github.com/Abdelrahman-Rashad/To-Do-Flutter"
+    }
+]
