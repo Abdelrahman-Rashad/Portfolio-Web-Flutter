@@ -26,5 +26,5 @@ Through this project, I learned:
 🌐 [[Check out the live website here](https://portfolio-web-flutter-c9ce7.firebaseapp.com/)]
 
 ## Video
-![Watch the demo]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/oFrv7q7vhBU))
+[![Watch the demo]](https://www.youtube.com/watch?v=oFrv7q7vhBU)  
 
