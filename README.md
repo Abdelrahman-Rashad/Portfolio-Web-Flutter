@@ -24,3 +24,6 @@ Through this project, I learned:
 
 ## 🚀 Live Demo  
 🌐 [[Check out the live website here](https://portfolio-web-flutter-c9ce7.firebaseapp.com/)]
+
+## Video
+[![Watch the demo video]](Portfolio-Web-Flutter/video/portfolio.mp4)  
