@@ -4,10 +4,10 @@ import '../styles/string_styles.dart';
 
 class PageName extends StatelessWidget {
   const PageName({
-    Key? key,
+    super.key,
     required this.width,
     required this.name,
-  }) : super(key: key);
+  });
 
   final double width;
   final String name;

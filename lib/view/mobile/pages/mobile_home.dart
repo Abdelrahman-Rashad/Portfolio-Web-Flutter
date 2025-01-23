@@ -36,10 +36,10 @@ class MobileHomeLayout extends StatelessWidget {
 
 class HomeBody extends StatelessWidget {
   const HomeBody({
-    Key? key,
+    super.key,
     required this.width,
     required this.imageScale,
-  }) : super(key: key);
+  });
 
   final double width;
   final double imageScale;

@@ -6,10 +6,10 @@ import '../../../model/project_model.dart';
 
 class ImageToInfo extends StatelessWidget {
   const ImageToInfo({
-    Key? key,
+    super.key,
     required this.project,
     required this.width,
-  }) : super(key: key);
+  });
   final ProjectModel project;
   final double width;
 

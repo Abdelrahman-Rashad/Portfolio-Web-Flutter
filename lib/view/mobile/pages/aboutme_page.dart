@@ -9,9 +9,9 @@ final aboutmePageMobile = GlobalKey();
 
 class AboutmePage extends StatelessWidget {
   const AboutmePage({
-    Key? key,
+    super.key,
     required this.imageScale,
-  }) : super(key: key);
+  });
   final double imageScale;
 
   @override

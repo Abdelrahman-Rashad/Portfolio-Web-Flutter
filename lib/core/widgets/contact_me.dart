@@ -39,11 +39,6 @@ class ContactMe extends StatelessWidget {
               contact: Strings.gmail,
               icon: Icons.email_outlined,
             ),
-            ContactInfoStructure(
-              width: width,
-              contact: Strings.phone,
-              icon: Icons.phone_outlined,
-            ),
             Padding(
               padding:
                   EdgeInsets.only(top: MediaQuery.sizeOf(context).width * 0.04),
@@ -65,11 +60,11 @@ class ContactMe extends StatelessWidget {
 
 class ContactInfoStructure extends StatelessWidget {
   const ContactInfoStructure({
-    Key? key,
+    super.key,
     required this.width,
     required this.icon,
     required this.contact,
-  }) : super(key: key);
+  });
 
   final double width;
   final IconData icon;
