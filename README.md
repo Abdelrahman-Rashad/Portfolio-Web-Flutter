@@ -1,16 +1,30 @@
-# portfolio
+# Porfolio Web Flutter
 
-A new Flutter project.
+## 📖 Overview  
+This is my **Portfolio Website** built using **Flutter**, focusing on creating a fully **Responsive** and **Adaptive** web design.  
 
-## Getting Started
+Through this project, I learned:  
+- How to build a responsive web interface using tools like:  
+  - `LayoutBuilder`  
+  - `MediaQuery`  
+  - `Expanded`  
+  - `FittedBox`  
+  - `IntrinsicHeight`  
+- How to host the website using **Firebase Hosting**, making it **live** and accessible for everyone.  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features  
+- **Responsive Web Design**:  
+  Ensures compatibility across all screen sizes (**desktop**, **tablet**, and **mobile**) using Flutter's flexible layout tools.  
+- **Firebase Hosting**:  
+  Deployed on **Firebase**, making the website live and accessible to users worldwide.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Live Demo  
+🌐 [[Check out the live website here](https://portfolio-web-flutter-c9ce7.firebaseapp.com/)]
+
+## Video
+[![Watch the demo]](https://www.youtube.com/watch?v=oFrv7q7vhBU)  
+
