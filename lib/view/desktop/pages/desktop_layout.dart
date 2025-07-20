@@ -92,7 +92,7 @@ class DesktapLayout extends StatelessWidget {
                       data: (projects) {
                         return Column(
                           children: [
-                            ImageToInfo(
+                            VideoToInfo(
                               project: projects[0],
                               width: width,
                             ),

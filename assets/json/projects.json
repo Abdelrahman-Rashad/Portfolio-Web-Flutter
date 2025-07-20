@@ -1,5 +1,19 @@
 [
     {
+        "name": "Quill With LLM",
+        "description": "This project was built using Flutter. It's a smart text editor powered by Quill and integrated with a large language model, like Gemini AI. ",
+        "tech": [
+            "Flutter",
+            "Quill",
+            "Clean Architecture",
+            "Gemini AI Integration",
+            "Firebase Hosting",
+            "Figma"
+        ],
+        "image": "",
+        "url": "https://github.com/Abdelrahman-Rashad/Quill-With-LLM-Flutter"
+    },
+    {
         "name": "Recipe Finder with Gemini AI",
         "description": "Using Flutter and integrate the Gemini AI model and APIs to provide users with a seamless and interactive experience for discovering recipes.",
         "tech": [

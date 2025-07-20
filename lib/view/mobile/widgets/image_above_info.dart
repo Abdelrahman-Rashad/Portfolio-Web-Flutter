@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:portfolio/core/strings/string.dart';
+import 'package:portfolio/core/widgets/custom_video.dart';
 
 import '../../../core/widgets/project_image_card.dart';
 import '../../../core/widgets/project_info_card.dart';
@@ -31,12 +33,16 @@ class ImageAboveInfo extends StatelessWidget {
               ),
               child: Padding(
                 padding: const EdgeInsets.all(15.0),
-                child: FittedBox(
-                  fit: BoxFit.scaleDown,
-                  child: ProjectImageCard(
-                    image: project.image!,
-                  ),
-                ),
+                child: project.image == ""
+                    ? CustomVideo(
+                        videoId: Strings.quillVideoID,
+                      )
+                    : FittedBox(
+                        fit: BoxFit.scaleDown,
+                        child: ProjectImageCard(
+                          image: project.image!,
+                        ),
+                      ),
               ),
             ),
             Expanded(
