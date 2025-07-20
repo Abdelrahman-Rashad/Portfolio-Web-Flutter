@@ -4,7 +4,6 @@ import 'package:portfolio/core/strings/string.dart';
 import '../../../core/widgets/custom_video.dart';
 import '../../../core/widgets/project_info_card.dart';
 import '../../../model/project_model.dart';
-import 'package:youtube_player_iframe/youtube_player_iframe.dart';
 
 class VideoToInfo extends StatelessWidget {
   final ProjectModel project;

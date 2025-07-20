@@ -14,6 +14,7 @@ import '../../../core/widgets/page_name.dart';
 import '../widgets/image_to_info.dart';
 import '../widgets/info_to_image.dart';
 import '../widgets/nav_list_items.dart';
+import '../widgets/video_to_info.dart';
 
 final aboutmeKeyDesktop = GlobalKey();
 final projectsKeyDesktop = GlobalKey();
